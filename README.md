@@ -1,9 +1,9 @@
-# packageName
+# alloyt
 
 <!-- automd:badges color=yellow -->
 
-[![npm version](https://img.shields.io/npm/v/packageName?color=yellow)](https://npmjs.com/package/packageName)
-[![npm downloads](https://img.shields.io/npm/dm/packageName?color=yellow)](https://npmjs.com/package/packageName)
+[![npm version](https://img.shields.io/npm/v/alloyt?color=yellow)](https://npmjs.com/package/alloyt)
+[![npm downloads](https://img.shields.io/npm/dm/alloyt?color=yellow)](https://npmjs.com/package/alloyt)
 
 <!-- /automd -->
 
@@ -17,43 +17,43 @@ Install package:
 
 ```sh
 # ✨ Auto-detect
-npx nypm install packageName
+npx nypm install alloyt
 
 # npm
-npm install packageName
+npm install alloyt
 
 # yarn
-yarn add packageName
+yarn add alloyt
 
 # pnpm
-pnpm install packageName
+pnpm add alloyt
 
 # bun
-bun install packageName
+bun add alloyt
 ```
 
 <!-- /automd -->
 
 Import:
 
-<!-- automd:jsimport cjs cdn name="pkg" -->
+<!-- automd:jsimport cjs cdn name="alloyt" -->
 
 **ESM** (Node.js, Bun)
 
 ```js
-import {} from "pkg";
+import {} from "alloyt";
 ```
 
 **CommonJS** (Legacy Node.js)
 
 ```js
-const {} = require("pkg");
+const {} = require("alloyt");
 ```
 
 **CDN** (Deno, Bun and Browsers)
 
 ```js
-import {} from "https://esm.sh/pkg";
+import {} from "https://esm.sh/alloyt";
 ```
 
 <!-- /automd -->
@@ -76,11 +76,11 @@ import {} from "https://esm.sh/pkg";
 
 <!-- automd:contributors license=MIT -->
 
-Published under the [MIT](https://github.com/unjs/packageName/blob/main/LICENSE) license.
-Made by [community](https://github.com/unjs/packageName/graphs/contributors) 💛
+Published under the [MIT](https://github.com/justboereh/alloyt/blob/main/LICENSE) license.
+Made by [community](https://github.com/justboereh/alloyt/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/unjs/packageName/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=unjs/packageName" />
+<a href="https://github.com/justboereh/alloyt/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=justboereh/alloyt" />
 </a>
 
 <!-- /automd -->
