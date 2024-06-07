@@ -7,7 +7,7 @@
 
 <!-- /automd -->
 
-This is my package description.
+YouTube's search and download.
 
 ## Usage
 
